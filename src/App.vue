@@ -1,9 +1,13 @@
 <template>
   <div>
-    <h1>我是app分组件</h1>
+      App根组件
   </div>
 </template>
 
-<script setup lang="ts"></script>
+<script setup lang="ts">
 
-<style scoped></style>
+</script>
+
+<style scoped>
+
+</style>
